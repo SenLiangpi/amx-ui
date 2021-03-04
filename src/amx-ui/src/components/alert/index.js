@@ -1,12 +1,10 @@
-<!--
+/*
  * @Author: PiPi
  * @Email: pisenliang@gmail.com
  * @Github: https://github.com/SenLiangpi
  * @Website: https://senliangpi.github.io/blog/#/
- * @Date: 2020-05-12 10:17:14
+ * @Date: 2020-06-30 16:55:37
  * @LastEditors: PiPi
- * @LastEditTime: 2020-05-14 16:01:17
- -->
-# amx-ui
-
-实验UI框架搭建
+ * @LastEditTime: 2020-06-30 17:05:00
+ */ 
+export { default } from './src/index.vue'
